@@ -1,16 +1,15 @@
-### Hi there 👋
+# ExistedGit
 
-<!--
-**ExistedGit/ExistedGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Elevating Ukrainian programming since 2021.
 
-Here are some ideas to get you started:
+# Primary interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Average Neco-Arc, math & C++ enjoyer. Other compiled languages are nice too(no, not you, Java).
+
+Interpreteted languages are heresy unless it's one implemented by me for a coding task.
+
+HTML/(S)CSS/JS, P\*thon, C++, C# and a little bit of everything else
+
+# On that grind
+
+[![Codewars](https://www.codewars.com/users/ExistedGit/badges/large)](https://www.codewars.com/users/ExistedGit)
