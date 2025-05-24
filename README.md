@@ -2,14 +2,4 @@
 
 Elevating Ukrainian programming since 2021.
 
-# Primary interests
-
-Average Neco-Arc, math & C++ enjoyer. Other compiled languages are nice too(no, not you, Java).
-
-Interpreteted languages are heresy unless it's one implemented by me for a coding task.
-
-HTML/(S)CSS/JS, P\*thon, C++, C# and a little bit of everything else
-
-# On that grind
-
-[![Codewars](https://www.codewars.com/users/ExistedGit/badges/large)](https://www.codewars.com/users/ExistedGit)
+![s-l1200](https://github.com/user-attachments/assets/98a64c96-7f45-40e7-932e-2a4dc6468ca5)
